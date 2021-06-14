@@ -55,10 +55,9 @@ Realizamos una base de datos el cual su nombre es “almacén”, además, Por e
 
 
 ## Autor
-- Joel Peña Romero.
+- Filiberto Maldonado
 
 ## Video explicativo
-https://www.youtube.com/watch?v=IzXYmmCI6Qs
 
 ## License
-- MIT
+-  En proceso
