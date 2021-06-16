@@ -58,6 +58,7 @@ Realizamos una base de datos el cual su nombre es “almacén”, además, Por e
 - Filiberto Maldonado
 
 ## Video explicativo
+https://www.youtube.com/watch?v=MyU1vP6Mwrs 
 
 ## License
 -  En proceso
